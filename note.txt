@@ -1,0 +1,5 @@
+task 1: Attend the team meeting
+task 2: Prepare the weekly report
+task 3: Answer clint emails
+task 4: Update the project plan
+task 5: Check inventory add order supplies
